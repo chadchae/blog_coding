@@ -1,0 +1,27 @@
+---
+title: "[R tip] 분석전 셋팅 (폴더, 패키지, 등등) "
+description: |
+  R에서 분석을 시작하기전에 해야할 기본 셋팅들에 대해 정리
+author:
+  - name: Chad
+    url: https://github.com/chadchae
+    affiliation: ChadLab
+    affiliation_url: https://chadchae.github.io
+date: 12-21-2019
+preview: preview.png
+categories:
+  - R tip
+  - 한글처리
+bibliography: 
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+draft: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

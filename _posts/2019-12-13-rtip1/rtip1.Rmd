@@ -1,0 +1,49 @@
+---
+title: "[R tip] Mac에서 한글사용 관련 이슈 정리"
+description: |
+  macOS에서 한글 출력에 대한 이슈와 해결방법들을 정리한 문서
+author:
+  - name: Chad
+    url: https://github.com/chadchae
+    affiliation: ChadLab
+    affiliation_url: https://chadchae.github.io
+date: 12-21-2019
+preview: preview.png
+categories:
+  - R tip
+  - 한글처리
+bibliography: 
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+draft: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## 한글이슈
+
+
+## 데이터 처리
+
+
+### CSV, EXCEL 파일 로딩에서 한글처리
+
+
+## 한글 시각화 / 출력 
+
+
+### 기본 프롯 한글 출력 
+
+
+### ggplot한글 출력
+
+
+### PDF 한글출력
+
+
+

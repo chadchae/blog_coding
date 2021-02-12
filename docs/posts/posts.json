@@ -1,0 +1,42 @@
+[
+  {
+    "path": "posts/2019-12-13-rtip0/",
+    "title": "[R tip] 분석전 셋팅 (폴더, 패키지, 등등) ",
+    "description": "R에서 분석을 시작하기전에 해야할 기본 셋팅들에 대해 정리",
+    "author": [
+      {
+        "name": "Chad",
+        "url": "https://github.com/chadchae"
+      }
+    ],
+    "date": "2019-12-21",
+    "categories": [
+      "R tip",
+      "한글처리"
+    ],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-11T23:26:06-03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2019-12-13-rtip1/",
+    "title": "[R tip] Mac에서 한글사용 관련 이슈 정리",
+    "description": "macOS에서 한글 출력에 대한 이슈와 해결방법들을 정리한 문서",
+    "author": [
+      {
+        "name": "Chad",
+        "url": "https://github.com/chadchae"
+      }
+    ],
+    "date": "2019-12-21",
+    "categories": [
+      "R tip",
+      "한글처리"
+    ],
+    "contents": "\nTable of Contents\n한글이슈\n데이터 처리CSV, EXCEL 파일 로딩에서 한글처리\n\n한글 시각화 / 출력기본 프롯 한글 출력\nggplot한글 출력\nPDF 한글출력\n\n한글이슈\n데이터 처리\nCSV, EXCEL 파일 로딩에서 한글처리\n한글 시각화 / 출력\n기본 프롯 한글 출력\nggplot한글 출력\nPDF 한글출력\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-11T23:26:06-03:00",
+    "input_file": {}
+  }
+]
